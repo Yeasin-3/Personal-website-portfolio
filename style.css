@@ -57,3 +57,26 @@ body{
     background-image: url(images1/latest-work-bg.png);
 
  }
+
+ .design{
+    text-align: center;
+ }
+  
+  
+ .massage{
+text-decoration: none;
+    border-radius: 10px;
+    background-color: rgb(213, 65, 65);
+    color: rgb(240, 229, 231);
+    padding: 10px 20px;
+    font-weight: 700;
+    text-align: center;
+   margin: 20%;
+     
+       
+ }
+
+ .fot{
+    text-align: center;
+ }
+  
