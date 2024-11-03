@@ -1,0 +1,59 @@
+
+body{
+    margin: 0%;
+}
+.color{
+    color: rgb(219, 146, 158);
+}
+.weight{
+    float: left;
+    margin-left: 5%;
+    padding: 2%;
+    width: 45%;;
+}
+.button{
+    text-decoration: none;
+    border-radius: 10px;
+    background-color: rgb(213, 65, 65);
+    color: rgb(240, 229, 231);
+    padding: 10px 20px;
+    font-weight: 700;
+}
+
+.banner{
+    background-image: url(images1/header-bg.png);
+    background-repeat: no-repeat;
+}
+.img{
+    float:left;
+    width: 30%;
+}
+.biography{
+    background-image: url(images1/biography-bg.png);
+     
+}
+
+ * {
+     box-sizing: border-box;
+ }
+
+ .img1 {
+     float: left;
+     width: 33.33%;
+     padding: 6px;
+     
+ }
+
+ .work {
+     content: "";
+     clear: both;
+     display: table;
+ }
+ .center{
+    text-align: center;
+ }
+ .work{
+    margin: 5%;
+    background-image: url(images1/latest-work-bg.png);
+
+ }
